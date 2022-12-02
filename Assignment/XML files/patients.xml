@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<patient>
+		<name>Ms. Hannah Jenkins</name>
+		<gender>Female</gender>
+		<age>27</age>
+        <phone>(090)9642495</phone>
+        <image>lisa.jpg</image>
+        <details>Patient currently on neoadjuvant therapy with Trastuzumab. Given family history, targeted mutation analysis of BRCA performed but was negative.</details>
+     </patient>
+    <patient>
+        <name>Mr. Alexander Hamilton</name>
+        <gender>Male</gender>
+        <age>50</age>
+        <phone>(090)9348502</phone>
+        <image>alex.jpg</image>
+        <details>Patient currently on neoadjuvant therapy with Trastuzumab. Given family history, targeted mutation analysis of BRCA performed but was negative.</details>
+     </patient>
+    <patient>
+        <name>Mrs. Megan Bradley</name>
+        <gender>Female</gender>
+        <age>40</age>
+        <phone>(090)9981569</phone>
+        <image>no-image.jpg</image>
+        <details>Mrs. Bradley is a 40-year old white female who presented with pain to Dr. Chatterjee. She had a hernia repair, on the right, in the past ,and this was recurrent. She was scheduled a surgery.</details>
+     </patient>
+    <patient>
+        <name>Mr. James Murray</name>
+        <gender>Male</gender>
+        <age>23</age>
+        <phone>(090)9128469</phone>
+        <image>jake.jpg</image>
+        <details>Mr. James presents complaining of blurred vision for the past 1 month. He finds it is difficult for him to read clearly.</details>
+     </patient>
+    <patient>
+        <name>Mr. Jacob Carton</name>
+        <gender>Male</gender>
+        <age>55</age>
+        <phone>(090)9128469</phone>
+        <image>jacob.jpg</image>
+        <details>Mr. Jacob recently recovered from covid. Second time tested positive but assymptomatic. Next week appointment booked for booster shot.</details>
+     </patient>
+    <patient>
+        <name>Mrs. Suzan</name>
+        <gender>Female</gender>
+        <age>45</age>
+        <phone>(090)9128469</phone>
+        <image>suzan.jpg</image>
+        <details>Mrs. Suzan recently had a knee surgery. She is a professional mountain ranger. Knee displacement due to an accident. A regular checkup is immediately needed.</details>
+     </patient>
+    <patient>
+        <name>Mrs. Patricia</name>
+        <gender>Female</gender>
+        <age>35</age>
+        <phone>(090)78139340</phone>
+        <image>patricia.jpg</image>
+        <details>Regular checkup. No sign of covid.</details>
+     </patient>
+    </people>
+    
